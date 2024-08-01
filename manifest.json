@@ -1,0 +1,10 @@
+{
+    "name": "Portifolio Cauã",
+    "short_name": "Portifólio",
+    "description": "Aplicativo que mostra o portifolio",
+    "start_url": "index.html",
+    "scope": ".",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "background_color": "#ffffff"
+}
